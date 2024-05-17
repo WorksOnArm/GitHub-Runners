@@ -1,7 +1,7 @@
 ---
 name: Request access to Works on Arm
 about: Request access to Works on Arm
-title: Request access to Works on Arm
+title: Credits for Arm-based GitHub Runners
 labels: ''
 assignees: ''
 
