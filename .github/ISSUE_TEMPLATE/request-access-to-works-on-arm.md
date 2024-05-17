@@ -1,6 +1,6 @@
 ---
-name: custom.md
-about: Describe this issue template's purpose here.
+name: Request access to Works on Arm
+about: Request access to Works on Arm
 title: Request access to Works on Arm
 labels: ''
 assignees: ''
