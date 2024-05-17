@@ -1,4 +1,4 @@
-# Works on Arm Equinix Cluster
+# GitHub Runners
 
 GitHub's Arm-based hosted runners, seamlessly integrated with GitHub Actions, empower native 
 development and testing of applications on Arm Neoverse platforms. Preloaded with essential tools 
