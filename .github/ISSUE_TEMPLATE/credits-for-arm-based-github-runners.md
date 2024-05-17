@@ -1,6 +1,6 @@
 ---
-name: Request access to Works on Arm
-about: Request access to Works on Arm
+name: Credits for Arm-based GitHub Runners
+about: Request credits for Arm-based GitHub Runners
 title: Credits for Arm-based GitHub Runners
 labels: ''
 assignees: ''
